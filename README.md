@@ -21,6 +21,7 @@
 - **Build Tool**: Maven
 - **Hosting**: GitHub Pages
 - **CI/CD**: GitHub Actions
+<img width="498" alt="Screenshot 2025-03-06 at 11 36 41 AM" src="https://github.com/user-attachments/assets/336f2dca-fd4d-47aa-8e4b-a15863bf67b3" />
 
 #Some screenshots 
-![Tittle_screen]
+
