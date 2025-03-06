@@ -23,4 +23,4 @@
 - **CI/CD**: GitHub Actions
 
 #Some screenshots 
-![Tittle_screen](file:///Users/ravikapur/Desktop/Screenshot%202025-03-06%20at%2011.36.51%E2%80%AFAM/tittle_screen.png)
+![Tittle_screen]
