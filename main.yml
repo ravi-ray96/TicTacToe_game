@@ -4,7 +4,7 @@
 #
 #
 #
-#
+theme: jekyll-theme-minimal
 name: Deploy
 on: [push]
 jobs:
